@@ -158,3 +158,7 @@ frontend/
 │       └── Drive.tsx
 └── public/
 ```
+
+## Test account
+Email : test@test.com
+Password: test123
